@@ -2,3 +2,7 @@ streamlit
 pandas
 numpy
 plotly
+opencv-python-headless
+Pillow
+ultralytics
+tensorflow
